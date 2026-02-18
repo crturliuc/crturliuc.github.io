@@ -72,10 +72,10 @@ Write a lot of different stuff, create cover songs and study their instruments, 
 
 SORRY for the massive wall of text, feel free to ask questions about any part, and also share your perspective on writing/analyzing music. 
 
-P.S. If you are talking a walk through the snow and/or enjoy "God is an Astronaut"-like bands, check out this Romanian post-rock album, it's such a vibe: https://aflmsmp.bandcamp.com/album/la-vale
+P.S. If you are talking a walk through the snow and/or enjoy "God is an Astronaut"-like bands, check out this Romanian post-rock album, it's such a vibe: [AFLMSMP](https://aflmsmp.bandcamp.com/album/la-vale)
 
 Best,
 
-Calin
+Calin"
 
 
