@@ -5,7 +5,7 @@ categories: Music
 ---
 This post is addressed to people that would like to write rock/metal music but have no experience in writing music. Note that I am also a hobbyist, and a lazy one at that, so take everything with a grain of salt. 
 Despite my process being rudimentary, I believe it can still offer a few initial directions and help with complete beginner painpoints.
-The following text is a verbatim email sent to a friend addressing this topic.
+The following text is a verbatim email sent to a friend addressing this topic (except some markdown formatting).
 
 "Hi Piyush,
 
@@ -22,11 +22,11 @@ or a pattern of 1-2-1-3 where 2 and 3 are similar in "my" chorus of Heretics:
 ```
 1 =
 A   2 3 2
-E 0          0 0
+E 0        0 0
 
 2 = 
 A 5 4 3 0 2
-E                  3
+E           3
 
 3 = 
 A 5 4 3(bend down and up twice)
@@ -68,7 +68,7 @@ Next I write synths/leads, and here the harmony part is even more important if y
 
 Last step is vocals, lyrics etc.which are based on the "vibe" of your song and the "vision" of your project/album/whatever. For example, the reason why I made "Thyr Tellann" is because 1) I love Malazan Book of the Fallen and 2) Caladan Brood (the band) never made a second album so far and also newer Summoning wasn't enough, the last album of theirs I truly adore is Let Mortal Heroes Sing Your Fame, probably my favorite tied with Minas Morgul. :)
 
-Write a lot of different stuff, create cover songs and study their instruments, but most importantly enjoy the process, find the joy in expressing yourself through music. I never programmed tremolo riffs, not sure how well that works, if you want I can get you started on how to practice them on guitar or play them for you. Don't be afraid to take inspiration from bands you love, e.g. my Heretics riffs are obviously inspired by Electric Funeral (https://www.youtube.com/watch?v=ZyEUk1ZJLn4) and Solitude (https://www.youtube.com/watch?v=UZjuzPU9UE4) and that's fine. :)
+Write a lot of different stuff, create cover songs and study their instruments, but most importantly enjoy the process, find the joy in expressing yourself through music. I never programmed tremolo riffs, not sure how well that works, if you want I can get you started on how to practice them on guitar or play them for you. Don't be afraid to take inspiration from bands you love, e.g. my Heretics riffs are obviously inspired by [Electric Funeral](https://www.youtube.com/watch?v=ZyEUk1ZJLn4) and [Solitude](https://www.youtube.com/watch?v=UZjuzPU9UE4) and that's fine. :)
 
 SORRY for the massive wall of text, feel free to ask questions about any part, and also share your perspective on writing/analyzing music. 
 
