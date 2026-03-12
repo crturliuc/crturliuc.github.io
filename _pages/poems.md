@@ -6,7 +6,7 @@ permalink: /poems/
 
 I enjoy the [metaphysical poets](https://en.wikipedia.org/wiki/Metaphysical_poets), Emily Dickinson, Arthur Rimbaud and many others. While I write in Romanian, you can find two translations and an "inverted" poem in English [here](https://github.com/crturliuc/crturliuc.github.io/raw/master/data/sample_poems_english.pdf).
 
-I read fantasy, sci-fi, classics, magical realism, history and philosophy (mostly in the late Roman empire): [Goodreads profile](https://www.goodreads.com/user/show/47299774)
+I read fantasy, sci-fi, classics, magical realism, history and philosophy (mostly in the late Roman empire): [Storygraph profile](https://app.thestorygraph.com/profile/calinrt)
 
 Poems in Romanian:
 - [Anii sub caduceu](https://github.com/crturliuc/crturliuc.github.io/raw/master/data/anii_sub_caduceu.pdf)
