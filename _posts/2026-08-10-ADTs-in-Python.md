@@ -4,8 +4,6 @@ title: "A Few Examples of Algebraic Data Types in Python"
 categories: Programming
 ---
 
-# A few examples of algebraic data types in Python
-
 In this notebook we translate the Rust code snippets of this [blogpost](https://alex.draftist.io/blog/the-bedrock-of-software-design-ycqvcedsj) to Python. We acknowledge the helpful top answer from this [SO post](https://stackoverflow.com/questions/16258553/how-can-i-define-algebraic-data-types-in-python).
 
 
@@ -14,6 +12,7 @@ from dataclasses import dataclass
 from typing import Literal, Optional, assert_never
 ```
 
+---
 
 ```python
 # Snippet 1: product type
@@ -23,6 +22,7 @@ class User:
     role: str # Role
 ```
 
+---
 
 ```python
 # Snippet 2: sum type
@@ -33,6 +33,7 @@ class AnonymousSession:
 Session = AnonymousSession | User # Authenticated(User) in general
 ```
 
+---
 
 ```python
 # Note: We can improve Snippet 1 using the sum type
@@ -51,6 +52,7 @@ class User:
     role: Role # Role
 ```
 
+---
 
 ```python
 # Snippet 3: Naive Theme
@@ -70,6 +72,7 @@ class SiteTheme:
     fixed_scheme: ColorScheme | None
 ```
 
+---
 
 ```python
 # Snippet 4: Constrained Theme
@@ -87,6 +90,7 @@ class Fixed:
 SiteTheme2 = Switchable | Fixed
 ```
 
+---
 
 ```python
 # Snippet 5: Validating with exceptions
@@ -100,7 +104,6 @@ def parse_port(value: str | int) -> int | None:
 
     return value
 ```
-
 
 ```python
 ports : list[int | str] = [0, 'ss', 4]
@@ -118,6 +121,7 @@ for port in ports:
     4 ok
     
 
+---
 
 ```python
 # Snippets 6 and 7: Result type and Validating with types
@@ -163,6 +167,7 @@ print(parse_port2(4))
     PortOK(value=4)
     
 
+---
 
 ```python
 # Snippets 8 and 9: optional type
@@ -173,6 +178,7 @@ def find_user(id: int) -> User | None:
     pass 
 ```
 
+---
 
 ```python
 # Snippet 10: FindUser with optional and status
@@ -187,6 +193,7 @@ def find_user2(id: int) -> Result:
     pass # type checker will complain until implementation
 ```
 
+---
 
 ```python
 # Snippet 11: calling parse_port2
@@ -207,10 +214,12 @@ for port in ports:
     Using port 4!
     
 
+---
 
 ```python
-# Snippets 12, 13 and 14: Roles, the article is a bit confusing because "User" denotes both the User who has a role
-# i.e. user.role and the user role i.e. normal user or admin
+# Snippets 12, 13 and 14: Roles, the article is a bit confusing because
+# "User" denotes both the User who has a role i.e. user.role
+# and the user role i.e. normal user or admin
 
 class StaffRole:
     pass
@@ -237,6 +246,7 @@ def ban_user(user_id: str, current_user: User) -> OK | BanUserError:
 
 ```
 
+---
 
 ```python
 # Snippets 15 and 16: combainations of input and result
