@@ -1,3 +1,9 @@
+---
+layout: post
+title: "A few examples of algebraic data types in Python"
+categories: Programming
+---
+
 # A few examples of algebraic data types in Python
 
 In this notebook we translate the Rust code snippets of this [blogpost](https://alex.draftist.io/blog/the-bedrock-of-software-design-ycqvcedsj) to Python. We acknowledge the helpful top answer from this [SO post](https://stackoverflow.com/questions/16258553/how-can-i-define-algebraic-data-types-in-python).
