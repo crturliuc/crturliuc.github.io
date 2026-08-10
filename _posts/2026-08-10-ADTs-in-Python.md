@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A few examples of algebraic data types in Python"
+title: "A Few Examples of Algebraic Data Types in Python"
 categories: Programming
 ---
 
